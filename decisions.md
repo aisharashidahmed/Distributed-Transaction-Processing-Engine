@@ -567,36 +567,6 @@ Trust is fundamental to long-term investing. Users should have confidence that i
 
 **Purpose**
 
-Define how the platform generates sustainable revenue while aligning the interests of users, partners, and the platform itself.
-
-### 7.1 Transaction fees, subscription, AUM-based fee, or spread on a money market product?
-
-**Answer**
-
-The platform will initially adopt a hybrid business model.
-
-Revenue may come from multiple sources, including:
-
-* Transparent platform fees where appropriate
-* Commercial partnerships and revenue-sharing agreements with licensed financial institutions
-* Optional premium products or features introduced as the platform matures
-
-The platform will not rely on hidden spreads or pricing practices that obscure the true cost of investing.
-
-As the platform grows and delivers additional value through new products, features, analytics, and services, the business model may expand to include additional revenue streams that remain transparent and aligned with user interests.
-
-**Reason**
-
-A hybrid business model reduces dependence on any single source of revenue while aligning the interests of users, partners, and the platform. Transparent pricing strengthens user trust, while diversified revenue streams support long-term sustainability and continued investment in improving the platform.
-
-**Validation Question**
-
-> Which combination of transparent platform fees, commercial partnerships, and premium services creates a sustainable business model while remaining competitive and aligned with the platform's mission of making investing accessible?
-
-# 7. Business Model
-
-**Purpose**
-
 Define how the platform generates sustainable revenue while aligning the interests of users, partner
 
 ### 7.1 Transaction fees, subscription, AUM-based fee, or spread on a money market product?
